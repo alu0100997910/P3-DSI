@@ -1,1 +1,3 @@
 Este es un fichero de prueba que va a ser modificado en la rama desarrollo2 para generar un conflicto al realizar la operacion de merge.
+
+Modificacion del archivo fichero2.txt de la rama desarrollo2
