@@ -2,5 +2,5 @@ Este es un fichero de prueba que va a ser modificado en la rama desarrollo2 para
 
 Modificacion del archivo fichero2.txt de la rama desarrollo2
 
-
 Añadida lineas de texto a partir de la rama desarrollo3
+
